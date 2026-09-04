@@ -1,0 +1,2 @@
+# Scripts-para-extraer-e-inyectar-.wpx-MVC2-Xbox-Original
+# MVC2 WPX Tool - Extractor &amp; Injector  Herramientas en Python para extraer e inyectar bloques de audio del formato `.wpx` usado en Marvel vs Capcom 2. Ideales para proyectos de doblaje y modding de audio.  > **Disclaimer:** Esta herramienta no contiene ni distribuye ningún archivo del juego. Necesitas una copia legal de Marvel vs Capcom 2
